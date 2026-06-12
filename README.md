@@ -251,7 +251,7 @@ MongoDB Atlas stores:
 ## Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/jobtrack-ai.git
+git clone https://github.com/shravanisahare14-web/jobtrack-ai.git
 ```
 
 ---
